@@ -6,6 +6,10 @@
   "directories": {
     "test": "tests"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TimeMagazine/node-secretary.git"
+  },  
   "scripts": {
     "test": "tests/test.js"
   },
