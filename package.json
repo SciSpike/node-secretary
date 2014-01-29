@@ -1,0 +1,21 @@
+{
+  "name": "secretary",
+  "version": "0.0.0",
+  "description": "Dead-simple script to write log files with automatic timestamps",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "tests/test.js"
+  },
+  "keywords": [
+    "logging",
+    "time"
+  ],
+  "dependencies": {
+    "mkdirp": "*"
+  },
+  "author": "Chris Wilson",
+  "license": "BSD"
+}
